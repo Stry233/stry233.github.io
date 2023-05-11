@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuetian's Home page # the website title (if blank, full name will be used instead)
+title: Yuetian's Home page (WIP) # the website title (if blank, full name will be used instead)
 first_name: Yuetian
 # middle_name: 
 last_name: Chen
@@ -125,9 +125,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-
 blog_name: Yuetian's Blog # blog_name will be displayed in your blog page
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
+
 permalink: /blog/:year/:title/
 
 # Pagination
