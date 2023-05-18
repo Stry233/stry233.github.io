@@ -1,18 +1,39 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Research Presentation @ RPI Undergraduate Research Fair 2023 
+date: 2023-05-03 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I am thrilled to announce that I recently had the privilege of participating in the Undergraduate Research Fair at Rensselaer Polytechnic Institute. This event, held at the Center for Biotechnology and Interdisciplinary Studies, brought together over 30 undergraduate students from various disciplines to present their research findings. As a representative from Professor <a href="https://homepages.rpi.edu/~sim/">Mei Si</a>'s research group, I was among a diverse group of students from 14 different majors, including computer science, earth and environmental science, chemistry, biochemistry and biophysics, etc.
+
+This news was published in <a href="https://news.rpi.edu/approach/2023/05/03">RPI NEWS-The Approach</a>. The following is the original article:
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Recently, more than 30 undergraduate students from Rensselaer Polytechnic Institute gathered at the Center for Biotechnology and Interdisciplinary Studies to share their findings with the community.
 
-#### Hipster list
+The undergraduate research fair showcased the work of students from the School of Science, as well as students from other schools who conducted research within the School of Science. Students represented 14 different majors including computer science, earth and environmental science, chemistry, biochemistry and biophysics, physics, mathematics, biology, computational biology, biological neuroscience, computer and system engineering, computer engineering, games and simulation engineering, biomedical engineering, and environmental engineering.
+
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/UGResearchFair.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Undergraduate Students Present Their Research - RPI Undergraduate Research Fair 2023
+</div>
+
+Students presented research on harmful algae blooms, Alzheimer’s disease, microplastics, science communication, cell structure and function, water clarity, open-source software development, fluid behavior, and more.
+
+“In recent years, RPI’s research fairs have been virtual because of COVID,” said Jordanne Feldman, student services coordinator in the School of Science. “We wanted to do something in-person so the students could practice showcasing their work in a face-to-face setting. It’s also just more fun to get together, have some food, and mingle with other young professionals. We are so proud of the students and their accomplishments.”
+
+At Rensselaer, undergraduate students are often offered opportunities to participate in research that typically only happens at the graduate level.
+
+
+
+<!-- #### Hipster list
 <ul>
     <li>brunch</li>
     <li>fixie</li>
@@ -29,4 +50,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
