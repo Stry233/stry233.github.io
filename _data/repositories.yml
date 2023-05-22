@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - stry233
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Stry233/Joe-Toplyn-s-Monologue-Joke-generation-using-ChatGPT
+  - Stry233/Visual-Story-Generation-Based-on-Emotional-and-Keyword-Scheme
+  - Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning
+  - Stry233/AppJava-DrawAndGuess-ver.RT
+  - YHL04/stockai
+  - anderm18/GaiNNs
