@@ -17,7 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer' # comment it on windows
+    # gem 'mini_racer' # comment it on windows
     gem 'unicode_utils'
     gem 'webrick'
 end

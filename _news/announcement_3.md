@@ -9,13 +9,13 @@ related_posts: false
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EMPAC/EMPAC_DEMO(1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/announcement-EMPAC/EMPAC_DEMO(1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EMPAC/EMPAC_DEMO(2).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/announcement-EMPAC/EMPAC_DEMO(2).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EMPAC/EMPAC_DEMO(3).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/announcement-EMPAC/EMPAC_DEMO(3).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -25,7 +25,7 @@ The Gameful and Immersive Learning Symposium presents innovative methods and tec
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EMPAC/EMPAC_Studio.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/announcement-EMPAC/EMPAC_Studio.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
