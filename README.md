@@ -621,7 +621,7 @@ Contributions to al-folio are very welcome!
 Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+For more complex issues/bugs or feature requests, please open an issue using the appropriate template..
 
 ### Maintainers
 
