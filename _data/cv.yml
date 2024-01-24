@@ -33,24 +33,20 @@
       institution: Intelligent System Lab, RPI
       year: May 2023 - December 2023
       description:
-        - Topics:
-            - Deep Learning for Computer Vision and Robotics - Open World Object Detection (August 2023)
-            - Integration of Computer Vision for Human Behavior Analysis in Pepper Robot (May 2023)
+        - Deep Learning for Computer Vision and Robotics - Open World Object Detection (August 2023)
+        - Integration of Computer Vision for Human Behavior Analysis in Pepper Robot (May 2023)
     - title: Research Assistant (Part-time)
       institution: Data Security and Privacy Lab, RPI
       year: May 2023 - Present
       description:
-        - Topics:
-            - Membership Inference Attacks and Data Privacy in Deep Learning (May 2023)
+        - Membership Inference Attacks and Data Privacy in Deep Learning (May 2023)
     - title: Research Assistant (Part-time)
       institution: Cognitive and Immersive Systems Lab, RPI
       year: March 2022 - December 2023
       description:
-        - Topics:
-            - Story Comprehension & Generation using Large Language Models (March 2022)
-            - Prompt Engineering for Domain Specialization (April 2023)
-            - Data Analytic Research for Speech-based Emotion Detection (August 2023)
-        - Tools: Pytorch, Tensorflow, OpenAI API (Whisper, ChatGPT), Choregraphe, QiSDK
+        - Story Comprehension & Generation using Large Language Models (March 2022)
+        - Prompt Engineering for Domain Specialization (April 2023)
+        - Data Analytic Research for Speech-based Emotion Detection (August 2023)
 
 - title: Instruction
   type: time_table
@@ -59,21 +55,17 @@
       institution: Rensselaer Polytechnic Institute
       year: Fall 2023
       description:
-        - Courses:
-            - CSCI 2500: Computer Organization
-            - CSCI 2600: Principle of Software (Spring 2023, Summer 2023)
-        - Responsibilities:
-            - Coordinating TAs, developing course materials, grading, facilitating interactive learning sessions.
+        - CSCI 2500: Computer Organization
+        - CSCI 2600: Principle of Software (Spring 2023, Summer 2023)
+        - Responsibilities: Coordinating TAs, developing course materials, grading, facilitating interactive learning sessions.
     - title: Mentor (Part-time)
       institution: Rensselaer Polytechnic Institute
       year: Fall 2022 - Summer 2023
       description:
-        - Courses:
-            - CSCI 2500: Computer Organization (Fall 2022)
-            - CSCI 2600: Principle of Software (Summer 2022, Fall 2022)
-            - COGS 2140: Introduction to Logic (Fall 2022)
-        - Responsibilities:
-            - Guiding students through various computer science and logic concepts, providing personalized attention and support.
+        - CSCI 2500: Computer Organization (Fall 2022)
+        - CSCI 2600: Principle of Software (Summer 2022, Fall 2022)
+        - COGS 2140: Introduction to Logic (Fall 2022)
+        - Responsibilities: Guiding students through various computer science and logic concepts, providing personalized attention and support.
 - title: Extracurricular Activities
   type: time_table
   contents:
@@ -81,20 +73,20 @@
       institution: Zhejiang, China
       year: Jan 2019 - Dec 2020
       description:
-        - Objective - Provide English instruction to teenagers with disabilities and to positively impact their lives by helping them develop their language skills.
-        - Impact - Successfully influenced the lives of over 300 teenagers with disabilities by volunteering as an English instructor. Designed and executed engaging lessons, fostering the students’ language skills through hands-on activities and personalized attention. Proud to have made a positive difference in the students’ futures, leaving a lasting impact on their education and career prospects.
+        - Provide English instruction to teenagers with disabilities and to positively impact their lives by helping them develop their language skills.
+        - Successfully influenced the lives of over 300 teenagers with disabilities by volunteering as an English instructor. Designed and executed engaging lessons, fostering the students’ language skills through hands-on activities and personalized attention. Proud to have made a positive difference in the students’ futures, leaving a lasting impact on their education and career prospects.
     - title: Video producing, Stream channel maintenance
       institution: Remote Video editor/Bilibili.com (Part-time)
       year: Oct. 2018 - Present
       description:
         - Video channel - realJohnson - Introduced the basics of computer science (e.g. object-oriented programming) to the general public in the context of classical operating systems in the early years. Utilize Adobe After Effects and Cinema 4D to achieve an effective audio-visual experience.
         - Video channel - KaleidoscopeSub - Localized translation channel for videos related to technology news. Proficiency in the pipeline of subtitle group operations from translation and editing to rendering and publishing.
-        - Impact - The channels have received over 350,000 views and influenced many younger generations interested in the field of computer science.
+        - The channels have received over 350,000 views and influenced many younger generations interested in the field of computer science.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: Fall 2020, Spring 2021, Spring 2022
+    - year: Fall 2020, Spring 2021, Spring 2022, Fall 2022
       items:
         - Rensselaer Polytechnic Institute Dean’s Honor List
     - year: Spring 2022
