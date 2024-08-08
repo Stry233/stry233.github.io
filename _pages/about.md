@@ -2,16 +2,16 @@
 layout: about
 title: home
 permalink: /
-subtitle: # Junior, Rensselaer Polytechnic Institute
+subtitle: CS PhD student @Purdue Univ.
 
 profile:
   align: right
   image: Profile-May2024-v2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rensselaer Polytechnic Institute</p>
-    <p>110 8th St</p>
-    <p>Troy, New York, 12180</p>
+    <p>Purdue University</p>
+    <p>610 Purdue Mall</p>
+    <p>West Lafayette, IN 47907</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
